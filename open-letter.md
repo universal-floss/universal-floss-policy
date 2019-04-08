@@ -5,11 +5,10 @@ This is not a manifesto, not a license, just an idea. It has been learned over a
 This is a draft of the postulates that have come out of what I have learned in my 40 years of life. We will work together, including you, to figure out how to implement this idea within the confines of our current global situation. That means we will need to create artifacts such as software licenses, agreements, and ways of working with todays cultures that will be used in this. Those artifacts will be used to implement the ideas herein so that we can transition from the situation we have now, into a better situation. Similar to Science Fiction, The better situation which is envisioned is not the be-all and end-all; its just the next step.
 
 Coincidentally, the ideas below are inline and seem to surpass the United Nations Sustainable Development Goals for 2030:
-
-https://sustainabledevelopment.un.org/
+</br>https://sustainabledevelopment.un.org/
 
 The License and TOC:
-https://raw.githubusercontent.com/universal-floss/universal-floss-policy/master/LICENSE-TOC
+</br>https://raw.githubusercontent.com/universal-floss/universal-floss-policy/master/LICENSE-TOC
 
 
 I believe that working more than 5 hours a day is not fair to the people who can't get jobs. I believe that everything is 50% more than what it should be, at a minimum. I believe that we had a necessity of setting goals to achieve through economics and business interactions in order to get to this point in society. I believe that now that we are able to communicate in real time globally, that we have technology which can perform the tasks that humans have been performing for the past 10,000 years, that we should allow ourselves to evolve.
