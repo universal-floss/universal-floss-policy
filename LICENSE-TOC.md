@@ -1,7 +1,7 @@
-License Name:  UFP
-Version: 0.0.0
+<b>License Name:  UFP</b>
+</br><b>Version: 0.0.0</b>
 
-The Points:
+<b>The Points:</b>
 1) All hardware and software, models, outputs etc, foreseen or unforeseen, derivatives or anything relating to the "stuff" we assign this license to will belong to the universe (and multiverse if it exists).
 
 2) To use anything related to item 1 (above) for gain, profit, or for exploitation, leading to one group or individual member to have more than any other, in any way, is prohibited.
@@ -18,5 +18,5 @@ The Points:
 
 8) The goal of the architecture of everything is that it should be entirely agnostic in any and every way, and allows for any implementation to work - for example "ip over avian(bird)" vs tcp/ip.
 
-Usage Terms:
-This license and terms of service may be used by anyone or anything so long as the terms listed herein are adhered to.  (i.e. not for profit for individuals or corporations only, must be universal profit for all)
+<b>Usage Terms:</b>
+</br>This license and terms of service may be used by anyone or anything so long as the terms listed herein are adhered to.  (i.e. not for profit for individuals or corporations only, must be universal profit for all)
